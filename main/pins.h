@@ -10,4 +10,8 @@
 
 #define SSD1306_PIN_LITE 15
 
+// HC-SR04 (header TX/RX da PicoDock)
+#define TRIG_PIN 14
+#define ECHO_PIN 16
+
 #endif // PINS_H
